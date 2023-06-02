@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.library.Tests.PricingTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-14T08:14:36" hostname="UKGC-PC" time="0.031">
+  <properties/>
+  <testcase name="getReturnPrice_OneWeekLate()" classname="com.library.Tests.PricingTest" time="0.024"/>
+  <testcase name="Test Loan Price For Playmat" classname="com.library.Tests.PricingTest" time="0.002"/>
+  <testcase name="Test Loan Price For Dice" classname="com.library.Tests.PricingTest" time="0.001"/>
+  <testcase name="getReturnPrice_OneDayLate()" classname="com.library.Tests.PricingTest" time="0.001"/>
+  <testcase name="Test Loan Price For Decks" classname="com.library.Tests.PricingTest" time="0.0"/>
+  <system-out><![CDATA[7
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
