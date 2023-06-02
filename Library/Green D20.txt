@@ -1,0 +1,8 @@
+Name: Green D20
+Description: Green coloured 20-sided die
+Total Number Owned: 10
+Number Available: 5
+Number On Loan: 5
+
+Loans
+DUE DATE: 2021-06-14 - Number Loaned: 5
