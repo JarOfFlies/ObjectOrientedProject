@@ -1,0 +1,9 @@
+Name: Dark Ritual
+Description: Black instant costing 1 mana
+Rarity: Common
+Total Number Owned: 9
+Number Available: 9
+Number In Decks: 0
+Number On Loan: 0
+
+Loans

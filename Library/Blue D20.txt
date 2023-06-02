@@ -1,0 +1,8 @@
+Name: Blue D20
+Description: Blue coloured 20-sided die
+Price: 
+Total Number Owned: 10
+Number Available: 10
+Number On Loan: 0
+
+Loans

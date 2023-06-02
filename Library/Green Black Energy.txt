@@ -1,0 +1,7 @@
+Name: Green Black Energy
+Description: A green black deck that plays around the energy mechanic
+Total Number Owned: 1
+Number Available: 1
+Number On Loan: 0
+
+Loans

@@ -1,0 +1,8 @@
+Name: Black D6
+Description: Black coloured 6-sided die
+Total Number Owned: 15
+Number Available: 13
+Number On Loan: 2
+
+Loans
+DUE DATE: 2021-05-21 - Number Loaned: 2
